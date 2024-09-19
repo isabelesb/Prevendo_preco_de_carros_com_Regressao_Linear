@@ -12,8 +12,4 @@ Após os devidos tratamentos, verifica-se a correlação entre as variáveis pre
 
 Por fim, ao criarmos, treinarmos e testarmos o modelo, as métricas utilizadas foram **MAE**, **MSE** e **RMSE**.
 
-**Bibliotecas:**
-- Pandas;
-- Numpy;
-- Seaborn;
-- Scikit-Learn.
+**Bibliotecas:** Pandas, Numpy, Seaborn e Scikit-Learn.
