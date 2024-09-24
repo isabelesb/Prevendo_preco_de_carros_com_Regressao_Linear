@@ -3,11 +3,11 @@
 Aqui, o objetivo é prever o preço de um carro utilizando Regressão Linear.
 
 ## Bibliotecas:
-1. Pandas.
-2. Numpy.
-3. Seaborn.
-4. Statsmodels.
-5. Sklearn.
+* Pandas.
+* Numpy.
+* Seaborn.
+* Statsmodels.
+* Sklearn.
 
 ## Análise Descritiva:
 * Os dados mostram valores discrepantes entre as colunas, então normalizaremos.
