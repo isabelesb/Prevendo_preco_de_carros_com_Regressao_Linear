@@ -24,4 +24,4 @@ Aqui, o objetivo é prever o preço de um carro utilizando Regressão Linear.
 * Em seguida, com o método *OLS* do Statsmodels escolhemos as variáveis explicativas que serão utilizadas no modelo, nos baseando no *P-Value* (com o limite de 0.1). As variáveis a serem adicionadas seguiram a ordem decrescente do índice de correlação, analisado anteriormente.
 
 ## Modelo:
-Ao criarmos, treinarmos e testarmos o modelo, as métricas utilizadas foram *MAE*, *MSE* e *RMSE*. Como usamos apenas um tipo de modelo, não tivemos como compará-las, mas os resuldados de treino e teste foram próximos, o que é um bom sinal.
+Ao criarmos, treinarmos e testarmos o modelo, as métricas utilizadas foram *MAE*, *MSE* e *RMSE*. Como usamos apenas o *LinearRegression()*, não tivemos como compará-las, mas os resuldados de treino e teste foram próximos, o que é um bom sinal.
